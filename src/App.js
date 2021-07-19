@@ -7,7 +7,7 @@ function App() {
     <div className="App">
 
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>למה אין רכב למה?</h1>
+        <h1>ושבו רכבים לחנייתם</h1>
 
     </div>
   );
